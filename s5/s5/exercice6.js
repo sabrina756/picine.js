@@ -1,0 +1,1 @@
+// Exercice 6: Création d'un simple composant de chronomètre en JavaScript pur

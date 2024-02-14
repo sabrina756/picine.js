@@ -1,0 +1,2 @@
+// Exercice 10: Implémentation d'un système de pub/sub (publication/souscription)
+// Objectif: Concevoir et implémenter un simple système de publication/souscription en JavaScript. Les utilisateurs peuvent s'abonner à des événements par nom et publier des événements, déclenchant ainsi des callbacks inscrits.

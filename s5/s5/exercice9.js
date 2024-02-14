@@ -1,0 +1,2 @@
+// Exercice 9: Analyseur syntaxique d'expressions mathématiques
+// Objectif: Créer un analyseur syntaxique (parser) qui évalue des expressions mathématiques simples fournies sous forme de chaîne de caractères (par exemple, "5 + 3 * 2"). Le parser doit gérer les opérations de base: addition, soustraction, multiplication, et division.
